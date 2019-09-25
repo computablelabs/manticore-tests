@@ -26,9 +26,9 @@ Scripts 5 and 7 might have had their underlying issues
 fixed so the failures should be genuine, but for the
 other states this isn't so.
 
-5 - fails with manticore.exceptions.NoAliveStates (fixed)
-7 - fails with manticore.exceptions.NoAliveStates (fixed)
-8 - fails with manticore.exceptions.NoAliveStates
-12 - fails with manticore.exceptions.NoAliveStates
-13 - fails with manticore.exceptions.NoAliveStates
-17 - fails with manticore.exceptions.NoAliveStates
+- 5: fails with manticore.exceptions.NoAliveStates (fixed)
+- 7: fails with manticore.exceptions.NoAliveStates (fixed)
+- 8: fails with manticore.exceptions.NoAliveStates
+- 12: fails with manticore.exceptions.NoAliveStates
+- 13: fails with manticore.exceptions.NoAliveStates
+- 17: fails with manticore.exceptions.NoAliveStates
