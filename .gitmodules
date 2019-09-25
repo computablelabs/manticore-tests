@@ -1,0 +1,3 @@
+[submodule "goest"]
+	path = goest
+	url = https://github.com/computablelabs/goest.git
